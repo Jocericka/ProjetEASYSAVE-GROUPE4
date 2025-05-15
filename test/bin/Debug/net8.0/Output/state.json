@@ -1,0 +1,14 @@
+{
+  "Backup-1": {
+    "Name": "Backup-1",
+    "Status": "Non Actif",
+    "LastUpdate": "2025-05-15T15:26:07.5359602+02:00",
+    "TotalFiles": 3,
+    "TotalSize": 3000,
+    "FilesRemaining": 0,
+    "SizeRemaining": 0,
+    "Progress": 100,
+    "CurrentSource": "C:\\source\\file3.txt",
+    "CurrentDestination": "D:\\target\\file3.txt"
+  }
+}

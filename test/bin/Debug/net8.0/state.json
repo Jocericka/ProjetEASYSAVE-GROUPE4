@@ -1,0 +1,14 @@
+{
+  "Backup-1": {
+    "JobName": "Backup-1",
+    "Status": "Active",
+    "TotalFiles": 3,
+    "TotalSize": 3000,
+    "RemainingFiles": 3,
+    "RemainingSize": 3000,
+    "CurrentSource": null,
+    "CurrentTarget": null,
+    "StartTime": "2025-05-15T15:11:08.2977461+02:00",
+    "EndTime": null
+  }
+}
