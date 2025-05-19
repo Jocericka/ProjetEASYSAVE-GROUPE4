@@ -1,0 +1,39 @@
+# ========== Visual Studio ==========
+.vs/
+*.user
+*.suo
+*.vsidx
+
+# ========== Build ==========
+bin/
+obj/
+out/
+artifacts/
+TestResults/
+
+# ========== Logs & temporaires ==========
+*.log
+*.tmp
+*.temp
+*.bak
+
+# ========== Configuration perso ==========
+*.dbmdl
+*.pdb
+
+# ========== Fichiers générés ==========
+*.designer.cs
+*.Generated.cs
+
+# ========== Publication ==========
+*.Publish.xml
+
+# ========== DotNet Core ==========
+project.lock.json
+project.fragment.lock.json
+
+# ========== Rider (JetBrains, si utilisé) ==========
+.idea/
+
+# ========== VS Code ==========
+.vscode/

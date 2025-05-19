@@ -1,0 +1,13 @@
+{
+    "EnterBackupJobName": "Enter the name of the backup job:",
+    "EnterSourceDirectory": "Enter the source directory:",
+    "EnterTargetDirectory": "Enter the target directory:",
+    "EnterBackupType": "Enter the type of backup (1 for Full, 2 for Differential):",
+    "EnterBackupJobIndex": "Enter the index of the backup job to execute:",
+    "EnterBackupJobRange": "Enter the range of backup jobs to execute (e.g., 1-3):",
+    "BackupJobAdded": "Backup job '{0}' added successfully.",
+    "ExecutingBackupJob": "Executing backup job '{0}'...",
+    "BackupJobCompleted": "Backup job '{0}' completed successfully.",
+    "MaxBackupJobsReached": "Maximum number of backup jobs reached.",
+    "InvalidBackupJobIndex": "Invalid backup job index."
+}

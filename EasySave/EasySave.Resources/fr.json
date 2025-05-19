@@ -1,0 +1,6 @@
+{
+    "MaxBackupJobsReached": "Nombre maximum de travaux de sauvegarde atteint.",
+    "BackupJobAdded": "Travail de sauvegarde '{0}' ajouté.",
+    "InvalidBackupJobIndex": "Index de travail de sauvegarde invalide.",
+    "ExecutingBackupJob": "Exécution du travail de sauvegarde : {0}"
+}
